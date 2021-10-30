@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @eriksoriano
-- 👀 I’m interested in design, music, technology, stem, videogames and anime
+- 👀 I’m interested in design, music, technology, stem, videogames, languages and anime
 - 🌱 I’m currently learning css, html, c#, figma, ui/ux design
 - 💞️ I’m looking to collaborate on programming, vr, ux research
 - 📫 How to reach me: eriksoriano@miami.edu, or through here. i don't use any other social media
