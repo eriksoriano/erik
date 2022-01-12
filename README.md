@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Gustavo Soriano
+- 👋 Hi, I’m Erik Soriano
 - 👀 I’m interested in design, music, technology, stem, videogames, languages and anime
 - 🌱 I’m currently learning css, html, c#, figma, ui/ux design
 - 💞️ I’m looking to collaborate on programming, vr, ux research
