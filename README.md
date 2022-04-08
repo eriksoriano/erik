@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Erik Soriano
-- 🇭🇳 I'm from Tegucigalpa, Honduras
 - 👀 I’m interested in design, music, technology, stem, videogames, languages and anime
 - 👨‍💻I’m currently learning css, html, c#, figma, ui/ux design at University of Miami
 - 💞️ I’m looking to collaborate on programming, vr, ux research
